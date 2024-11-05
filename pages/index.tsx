@@ -219,7 +219,7 @@ const Home: NextPage = () => {
       </div>
 
       <IntroductionGame />
-<OtherVersionGames  />
+  <OtherVersionGames  />
       {/* 其他部分的移动端优化 */}
       <div className="w-full space-y-6 sm:space-y-8 mt-4 sm:mt-8">
 
