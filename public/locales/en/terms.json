@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "title": "Terms of Service - sprunki phase 3 Game"
+  },
+  "title": "Terms of Service",
+  "intro": "This Terms of Service agreement sets forth the terms and conditions for use of sprunki phase 3 Game website. By using our website, you agree to these terms.",
+  "service": {
+    "title": "1. Service Description",
+    "description": "sprunki phase 3 Game provides a web-based platform for playing HTML5 games. Our service allows users to access and play various games through our website."
+  },
+  "content": {
+    "title": "2. Content and Usage",
+    "description": "Users are expected to use our gaming platform responsibly:",
+    "rules": {
+      "0": "Games are provided for entertainment purposes only",
+      "1": "Users must not attempt to modify or hack the games",
+      "2": "Users must not use any cheating tools or exploits",
+      "3": "Users must not engage in any activity that disrupts the gaming experience for others"
+    }
+  },
+  "availability": {
+    "title": "3. Service Availability",
+    "description": "We strive to maintain high availability of our service, but we do not guarantee uninterrupted access.",
+    "interruptions": "The service may be temporarily unavailable due to maintenance or technical issues."
+  },
+  "liability": {
+    "title": "4. Limitation of Liability",
+    "description": "To the fullest extent permitted by law, sprunki phase 3 Game shall not be liable for any damages arising from the use of our service."
+  },
+  "governing": {
+    "title": "5. Governing Law",
+    "description": "These Terms of Service are governed by applicable laws."
+  },
+  "changes": {
+    "title": "6. Changes to Terms",
+    "description": "We reserve the right to modify these Terms of Service at any time. Continued use of the service after changes constitutes acceptance of the new terms."
+  },
+  "lastUpdated": "Last Updated",
+  "updateDate": "March 20, 2024"
+}

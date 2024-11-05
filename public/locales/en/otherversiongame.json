@@ -1,0 +1,98 @@
+{
+  "title": "Other Game Versions",
+  "description": "Try different versions of Sprunki Phase 3",
+  "versions": [
+    {
+    
+      "id": "phase1",
+      "title": "Sprunki Phase 1",
+      "image": "https://cdn.sprunkiphase3.online/phase1.jfif",
+      "description": "Perfect for beginners - a gentler introduction to the nightmare",
+      "gradient": "from-blue-400 to-purple-500",
+      "url": "/other-version-games/sprunkiphase1",
+      "isExternal": false
+    },
+    {
+      "id": "phase2",
+      "title": "Sprunki Phase 2",
+      "image": "https://cdn.sprunkiphase3.online/phase2.jfif",
+      "description": "The original Sprunki experience that started it all",
+      "gradient": "from-green-400 to-blue-500",
+      "url": "/other-version-games/sprunkiphase2",
+      "isExternal": false
+    },
+    {
+      "id": "phase3",
+      "title": "Sprunki Phase 3",
+      "image": "https://cdn.sprunkiphase3.online/phase3.jfif",
+      "description": "Take the horror with you - optimized for mobile devices",
+      "gradient": "from-purple-500 to-red-500",
+      "url": "/other-version-games/sprunkiphase3",
+      "isExternal": false
+    },
+    {
+
+      "id": "phase4",
+      "title": "Sprunki Phase 4",
+      "image": "https://cdn.sprunkiphase3.online/phase4.jfif",
+      "description": "The ultimate rhythm experience with stunning visuals",
+      "gradient": "from-pink-500 to-yellow-500",
+      "url": "/other-version-games/sprunkiphase4",
+      "isExternal": false
+    },
+    {
+      "id": "phase5",
+      "title": "Sprunki Phase 5",
+      "image": "https://cdn.sprunkiphase3.online/phase5.jfif",
+      "description": "Creative music making with enhanced sound library",
+      "gradient": "from-indigo-500 to-purple-500",
+      "url": "/other-version-games/sprunkiphase5",
+      "isExternal": false
+    },
+    {
+      "id": "phase6",
+      "title": "Sprunki Phase 6",
+      "image": "https://cdn.sprunkiphase3.online/phase6.jfif",
+      "description": "Explore new musical genres and dynamic visuals",
+      "gradient": "from-yellow-400 to-orange-500",
+      "url": "/other-version-games/sprunkiphase6",
+      "isExternal": false
+    },
+    {
+      "id": "phase7",
+      "title": "Sprunki Phase 7",
+      "image": "https://cdn.sprunkiphase3.online/phase7.jfif",
+      "description": "Interactive storytelling meets music creation",
+      "gradient": "from-teal-400 to-blue-500",
+      "url": "/other-version-games/sprunkiphase7",
+      "isExternal": false
+    },
+    {
+      "id": "phase8",
+      "title": "Sprunki Phase 8",
+      "image": "https://cdn.sprunkiphase3.online/phase8.jfif",
+      "description": "Mobile-first music creation with futuristic sounds",
+      "gradient": "from-cyan-500 to-blue-500",
+      "url": "/other-version-games/sprunkiphase8",
+      "isExternal": false
+    },
+    {
+      "id": "phase9",
+      "title": "Sprunki Phase 9",
+      "image": "https://cdn.sprunkiphase3.online/phase9.jfif",
+      "description": "Rhythm-based platforming adventure",
+      "gradient": "from-purple-600 to-pink-500",
+      "url": "/other-version-games/sprunkiphase9",
+      "isExternal": false
+    },
+    {
+      "id": "phase10",
+      "title": "Sprunki Phase 10",
+      "image": "https://cdn.sprunkiphase3.online/phase10.jfif",
+      "description": "The ultimate evolution of music creation",
+      "gradient": "from-emerald-500 to-teal-500",
+      "url": "/other-version-games/sprunkiphase10",
+      "isExternal": false
+    }
+  ]
+} 

@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "sprunki phase 3 スクラッチ版 | 無料で遊べる人気音楽リズムゲーム",
+    "description": "sprunki phase 3 スクラッチ版を今すぐプレイ！Scratchで作られた無料のsprunki phase 3クローン。プログラミング学習にも最適なスクラッチ版ジオメトリーダッシュで音楽とコーディングの世界を楽しもう！",
+    "siteName": "sprunki phase 3 スクラッチ版 | 無料音楽リズムゲーム",
+    "ogTitle": "sprunki phase 3 スクラッチ版 | Scratchで遊べる無料ゲーム",
+    "twitterTitle": "sprunki phase 3 スクラッチ版 | プログラミング学習にも最適",
+    "ogDescription": "sprunki phase 3 スクラッチ版で音楽とプログラミングを楽しもう！Scratchで作られた無料のsprunki phase 3クローン。"
+  },
+  "header": {
+    "home": "ホーム",
+    "flux11Pro": "sprunki phase 3 スクラッチ",
+    "headerh2": "sprunki phase 3 スクラッチ版"
+  },
+  "home": {
+    "title": "sprunki phase 3 スクラッチ版で遊ぼう！",
+    "description": "スクラッチで作られたsprunki phase 3を今すぐプレイ！プログラミング学習とゲームが融合した新しい体験。",
+    "cta": "スクラッチ版で遊ぶ 🚀"
+  },
+  "features": {
+    "title": "sprunki phase 3 スクラッチ版の特徴",
+    "rhythmAdventure": {
+      "title": "スクラッチで作られた本格リズムゲーム",
+      "description": "sprunki phase 3 スクラッチ版は、オリジナルの魅力をそのままに、Scratchで再現された無料ゲームです。",
+      "imageAlt": "sprunki phase 3 スクラッチ版のゲームプレイ"
+    },
+    "gameModes": {
+      "title": "スクラッチならではの機能",
+      "description": "sprunki phase 3 スクラッチ版では、プログラムの仕組みを学びながらゲームを楽しめます。",
+      "imageAlt": "スクラッチ版の特別機能"
+    },
+    "levelEditor": {
+      "title": "スクラッチでレベル作成",
+      "description": "sprunki phase 3 スクラッチ版では、Scratchの機能を使って自分だけのレベルを作れます。",
+      "imageAlt": "スクラッチ版のレベルエディター"
+    },
+    "endlessChallenge": {
+      "title": "スクラッチ版の無限の可能性",
+      "description": "sprunki phase 3 スクラッチ版では、コミュニティが作成した多様なレベルで遊べます。",
+      "imageAlt": "スクラッチ版の無限チャレンジ"
+    },
+    "characterCustomization": {
+      "title": "スクラッチでキャラクターカスタマイズ",
+      "description": "sprunki phase 3 スクラッチ版では、プログラミングでキャラクターをカスタマイズできます。",
+      "imageAlt": "スクラッチ版のキャラクターカスタマイズ"
+    },
+    "mainImage": {
+      "alt": "sprunki phase 3 スクラッチ版のゲームプレイ画面"
+    }
+  },
+  "howToPlay": {
+    "title": "sprunki phase 3 スクラッチ版の遊び方",
+    "description": "スクラッチ版の基本から応用まで、詳しく解説します。",
+    "basicControls": {
+      "title": "スクラッチ版の基本操作",
+      "description": "スペースキーでジャンプ、長押しで飛行。Scratchの特性を活かした操作性。"
+    },
+    "gameObjective": {
+      "title": "スクラッチ版の目的",
+      "description": "プログラミングを学びながら、音楽に合わせて障害物を避けてゴールを目指そう。"
+    },
+    "difficultyLevels": {
+      "title": "スクラッチ版の難易度",
+      "description": "初心者向けの簡単なレベルから、プログラミング要素を含む高度なレベルまで。"
+    },
+    "gameModes": {
+      "title": "スクラッチ版のモード",
+      "description": "Scratchの機能を活用した様々なゲームモードを体験できます。"
+    },
+    "tips": {
+      "title": "スクラッチ版のコツ",
+      "description": "プログラミングの基礎を理解しながら、リズムゲームを楽しもう。"
+    }
+  },
+  "footer": {
+    "description": "sprunki phase 3 スクラッチ版で、プログラミングとリズムゲームの新しい世界を体験しよう！",
+    "product": "スクラッチ版",
+    "features": "機能",
+    "partner": "パートナー",
+    "followUs": "フォローする",
+    "copyright": "© {{year}} sprunki phase 3 スクラッチ版. All rights reserved.",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "credits": "Scratch版制作"
+  },
+  "faq": {
+    "mainTitle": "sprunki phase 3 スクラッチ版についてよくある質問",
+    "description": "スクラッチ版に関する疑問にお答えします。",
+    "question1": "スクラッチ版は難しいですか？",
+    "answer1": "sprunki phase 3 スクラッチ版は、プログラミング初心者でも楽しめるように設計されています。",
+    "question2": "スクラッチ版は無料ですか？",
+    "answer2": "はい、sprunki phase 3 スクラッチ版は完全無料でプレイできます。",
+    "question3": "オフラインでもプレイできますか？",
+    "answer3": "スクラッチ版はブラウザで動作するため、インターネット接続が必要です。",
+    "question4": "自分でレベルを作れますか？",
+    "answer4": "はい、スクラッチのプログラミング機能を使って独自のレベルを作成できます。",
+    "question5": "スクラッチ版の更新は？",
+    "answer5": "コミュニティによって定期的に新しいレベルや機能が追加されています。",
+    "question6": "子供でも遊べますか？",
+    "answer6": "はい、sprunki phase 3 スクラッチ版は教育目的で作られており、子供向けの学習ツールとして最適です。",
+    "question7": "スクラッチ版の特徴は？",
+    "answer7": "プログラミング学習とゲームプレイを組み合わせた独自の体験を提供します。",
+    "question8": "スクラッチ版の開発者は？",
+    "answer8": "世界中のScratchコミュニティメンバーによって開発・改良が続けられています。",
+    "question9": "スクラッチ版でできることは？",
+    "answer9": "ゲームプレイだけでなく、プログラミングの基礎やゲーム開発の仕組みを学べます。",
+    "question10": "スクラッチ版のメリットは？",
+    "answer10": "無料で遊べる上に、プログラミング教育としても活用できる点が大きな特徴です。",
+    "cannotFindAnswer": "お探しの答えが見つかりませんか？スクラッチコミュニティのフォーラムもご確認ください。"
+  },
+  "testimonials": {
+    "title": "スクラッチ版プレイヤーの声",
+    "description": "sprunki phase 3 スクラッチ版を楽しむプレイヤーたちの感想です。",
+    "tanaka": {
+      "content": "スクラッチ版でプログラミングの基礎が学べて、ゲームも楽しめて一石二鳥です！",
+      "name": "田中さん",
+      "role": "プログラミング初学者"
+    },
+    "sato": {
+      "content": "sprunki phase 3 スクラッチ版で子供がプログラミングに興味を持ち始めました。",
+      "name": "佐藤さん",
+      "role": "保護者"
+    },
+    "yamada": {
+      "content": "スクラッチの機能を使って自分だけのレベルが作れるのが楽しいです。",
+      "name": "山田さん",
+      "role": "学生"
+    },
+    "suzuki": {
+      "content": "sprunki phase 3 スクラッチ版は、プログラミングの勉強にぴったりです。",
+      "name": "鈴木くん",
+      "role": "小学生"
+    },
+    "takahashi": {
+      "content": "スクラッチでゲームを作る楽しさを知りました。",
+      "name": "高橋さん",
+      "role": "教育者"
+    }
+  },
+  "gameTips": {
+    "title": "sprunki phase 3 スクラッチ版攻略のコツ",
+    "description": "スクラッチ版をより楽しむためのヒントをご紹介します。",
+    "rhythm": {
+      "title": "リズムとプログラミング",
+      "description": "音楽とコードの関係を理解しながらプレイしましょう。"
+    },
+    "practice": {
+      "title": "スクラッチでの練習方法",
+      "description": "コードを確認しながら、少しずつ難しいレベルに挑戦しましょう。"
+    },
+    "customize": {
+      "title": "スクラッチでカスタマイズ",
+      "description": "プログラミングでキャラクターや効果をカスタマイズしよう。"
+    },
+    "community": {
+      "title": "スクラッチコミュニティの活用",
+      "description": "他のプレイヤーのコードを参考に、新しいアイデアを得よう。"
+    },
+    "perseverance": {
+      "title": "プログラミングの基礎を身につけよう",
+      "description": "ゲームを通じてプログラミングの考え方を学びましょう。"
+    }
+  },
+  "gameGuide": {
+    "title": "sprunki phase 3 スクラッチ版入門ガイド",
+    "description": "スクラッチ版の基本から応用まで、詳しく解説します。",
+    "basics": {
+      "title": "スクラッチ版の基本",
+      "description": "sprunki phase 3 スクラッチ版の基礎を学びましょう。",
+      "items": [
+        "スクラッチの基本操作を理解する",
+        "音楽とプログラミングの関係を学ぶ",
+        "簡単なレベルから始める"
+      ]
+    },
+    "gameModes": {
+      "title": "スクラッチ版のモード",
+      "description": "様々なプレイスタイルを試してみましょう。",
+      "items": [
+        "基本モード：プログラミングの基礎を学ぶ",
+        "創作モード：独自のレベルを作る",
+        "チャレンジモード：高度なプログラミングに挑戦"
+      ]
+    },
+    "levelTypes": {
+      "title": "スクラッチ版のレベル",
+      "description": "様々な難易度のレベルに挑戦しよう。",
+      "items": [
+        "チュートリアルレベル：プログラミングの基礎を学ぶ",
+        "コミュニティレベル：他のプレイヤーの作品を楽しむ",
+        "チャレンジレベル：プログラミングスキルを試す"
+      ]
+    },
+    "customization": {
+      "title": "スクラッチでのカスタマイズ",
+      "description": "プログラミングで自分だけの要素を作ろう。",
+      "items": [
+        "キャラクター：スクラッチで新しいキャラクターを作る",
+        "効果：プログラムでエフェクトを追加",
+        "音楽：オリジナルの音楽を組み込む"
+      ]
+    },
+    "tips": {
+      "title": "上達のコツ",
+      "description": "スクラッチ版でうまくなるためのヒント。",
+      "items": [
+        "コードを理解する：プログラムの仕組みを学ぶ",
+        "コミュニティに参加：他の開発者と交流する",
+        "アイデアを共有：自分の作品を公開する"
+      ]
+    },
+    "levelEditor": {
+      "title": "スクラッチでレベル作成",
+      "description": "プログラミングで自分だけのレベルを作ろう。",
+      "items": [
+        "基本的なブロックプログラミング",
+        "音楽との同期方法",
+        "レベルの共有と評価"
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "スクラッチ版について、よくある質問にお答えします。",
+      "items": [
+        "プログラミング初心者でも楽しめます",
+        "無料で遊べて、教育にも最適です"
+      ]
+    }
+  }
+}

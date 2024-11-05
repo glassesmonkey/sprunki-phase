@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "title": "Privacy Policy - sprunki phase 3 Game"
+    },
+    "title": "Privacy Policy",
+    "intro": "This privacy notice explains how sprunki phase 3 Game handles information when you use our website.",
+    "contact": {
+        "title": "Contact Information",
+        "email": "If you have any questions about this Privacy Policy, please contact us at: contact@sprunkiphase3.online"
+    },
+    "info": {
+        "title": "Information Collection and Use",
+        "description": "We do not collect or store any personal information from our users. Our website only provides HTML5 games through iframes.",
+        "cookies": {
+            "title": "Cookies",
+            "description": "We use only essential cookies that are necessary for the website to function properly. These cookies do not track personal information."
+        },
+        "thirdParty": {
+            "title": "Third-Party Content",
+            "description": "Our games are provided through iframes from third-party game providers. These providers may have their own privacy policies and cookie practices. We recommend reviewing their privacy policies for more information."
+        }
+    },
+    "children": {
+        "title": "Children's Privacy",
+        "description": "Our website is intended for general audiences. We do not knowingly collect any personal information from children under 13 years of age."
+    },
+    "changes": {
+        "title": "Changes to This Privacy Policy",
+        "description": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page."
+    },
+    "lastUpdated": "Last Updated",
+    "updateDate": "March 20, 2024"
+}
