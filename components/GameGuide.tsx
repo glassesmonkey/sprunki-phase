@@ -1,27 +1,27 @@
 import React from 'react';
 import { useTranslation } from 'next-i18next';
-import { Skull, Ghost, Eye, Heart, Brain, Sparkles, HelpCircle } from 'lucide-react';
+import { Gamepad, Star, Music, Users, Wand2, Sparkles, HelpCircle } from 'lucide-react';
 
 const GameGuide = () => {
   const { t } = useTranslation('common');
 
   const sections = [
-    'survival',
-    'transformation',
-    'soundscape',
-    'environment',
-    'abilities',
+    'basics',
+    'music',
+    'adventure',
+    'multiplayer',
+    'special',
     'advanced',
     'help'
   ];
 
   const icons = {
-    survival: <Heart className="h-6 w-6 text-purple-600" />,
-    transformation: <Ghost className="h-6 w-6 text-purple-600" />,
-    soundscape: <Eye className="h-6 w-6 text-purple-600" />,
-    environment: <Sparkles className="h-6 w-6 text-purple-600" />,
-    abilities: <Skull className="h-6 w-6 text-purple-600" />,
-    advanced: <Brain className="h-6 w-6 text-purple-600" />,
+    basics: <Gamepad className="h-6 w-6 text-purple-600" />,
+    music: <Music className="h-6 w-6 text-purple-600" />,
+    adventure: <Star className="h-6 w-6 text-purple-600" />,
+    multiplayer: <Users className="h-6 w-6 text-purple-600" />,
+    special: <Wand2 className="h-6 w-6 text-purple-600" />,
+    advanced: <Sparkles className="h-6 w-6 text-purple-600" />,
     help: <HelpCircle className="h-6 w-6 text-purple-600" />
   };
 
@@ -37,7 +37,7 @@ const GameGuide = () => {
       </div>
       <div className="mx-auto max-w-3xl">
         {sections.map((section) => (
-          <div key={section} className="mb-8 p-6 bg-gray-900/5 rounded-lg">
+          <div key={section} className="mb-8 p-6 bg-gray-900/5 rounded-lg hover:bg-purple-50 transition-colors">
             <div className="flex items-center mb-4">
               {icons[section as keyof typeof icons]}
               <h3 className="ml-3 text-2xl font-bold">

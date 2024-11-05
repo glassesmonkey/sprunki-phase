@@ -20,7 +20,7 @@ const Home: NextPage = () => {
   const { t } = useTranslation('common');
   const router = useRouter();
   const { locale, locales, defaultLocale, pathname } = router;
-  const canonicalUrl = `https://sprunkiphase3.online${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
+  const canonicalUrl = `https://sprunkiphase.club${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
   const [showGame, setShowGame] = useState(false);
   const iframeRef = useRef<HTMLIFrameElement>(null);
   const [iframeLoaded, setIframeLoaded] = useState(false);
@@ -40,7 +40,7 @@ const Home: NextPage = () => {
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://sprunkiphase3.online${l === defaultLocale ? '' : `/${l}`}${pathname}`}
+            href={`https://sprunkiphase.club${l === defaultLocale ? '' : `/${l}`}${pathname}`}
           />
         ))}
 
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <link
           rel="alternate"
           hrefLang="x-default"
-          href={`https://sprunkiphase3.online${pathname}`}
+          href={`https://sprunkiphase.club${pathname}`}
         />
         <script type="application/ld+json">
           {JSON.stringify({

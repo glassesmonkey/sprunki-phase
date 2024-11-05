@@ -1,5 +1,5 @@
 import { useTranslation } from 'next-i18next';
-import { Gamepad, Music, Ghost, Zap, Users } from 'lucide-react';
+import { Gamepad, Music, Wand2, Zap, Users } from 'lucide-react';
 
 const FeaturesSection = () => {
   const { t } = useTranslation('common');
@@ -12,31 +12,31 @@ const FeaturesSection = () => {
           </h2>
           <ul className="grid max-w-2xl grid-cols-2 sm:gap-5 lg:max-w-none">
             <li className="flex flex-col p-5">
-              <Ghost className="mb-4 inline-block rounded-full" size={40} />
-              <p className="mb-4 font-semibold">{t('features.nightmareMode.title')}</p>
+              <Gamepad className="mb-4 inline-block rounded-full" size={40} />
+              <p className="mb-4 font-semibold">{t('features.gameplay.title')}</p>
               <p className="text-sm text-gray-500">
-                {t('features.nightmareMode.description')}
+                {t('features.gameplay.description')}
               </p>
             </li>
             <li className="flex flex-col p-5">
               <Music className="mb-4 inline-block rounded-full" size={40} />
-              <p className="mb-4 font-semibold">{t('features.soundscape.title')}</p>
+              <p className="mb-4 font-semibold">{t('features.music.title')}</p>
               <p className="text-sm text-gray-500">
-                {t('features.soundscape.description')}
+                {t('features.music.description')}
               </p>
             </li>
             <li className="flex flex-col p-5">
-              <Gamepad className="mb-4 inline-block rounded-full" size={40} />
-              <p className="mb-4 font-semibold">{t('features.transformation.title')}</p>
+              <Wand2 className="mb-4 inline-block rounded-full" size={40} />
+              <p className="mb-4 font-semibold">{t('features.characters.title')}</p>
               <p className="text-sm text-gray-500">
-                {t('features.transformation.description')}
+                {t('features.characters.description')}
               </p>
             </li>
             <li className="flex flex-col p-5">
               <Zap className="mb-4 inline-block rounded-full" size={40} />
-              <p className="mb-4 font-semibold">{t('features.immersive.title')}</p>
+              <p className="mb-4 font-semibold">{t('features.evolution.title')}</p>
               <p className="text-sm text-gray-500">
-                {t('features.immersive.description')}
+                {t('features.evolution.description')}
               </p>
             </li>
             <li className="flex flex-col p-5">
@@ -50,7 +50,7 @@ const FeaturesSection = () => {
         </div>
         <div className="flex justify-center items-center order-1 lg:order-2 lg:w-1/2">
           <img
-            src="https://cdn.sprunkiphase3.online/sprunki-phase-3-game.webp"
+            src="https://cdn.sprunkiphase3.online/sprunki-phase-series.webp"
             alt={t('features.mainImage.alt')}
             className="h-auto w-full max-w-md object-contain"
           />

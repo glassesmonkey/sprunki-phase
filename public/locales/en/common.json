@@ -11,214 +11,254 @@
     "siteName": "sprunkiphase3.online"
   },
   "features": {
-    "title": "Experience Sprunki Phase 3",
-    "nightmareMode": {
-      "title": "Nightmare Mode",
-      "description": "Enter the darkest and most thrilling mode in Sprunki history. Face your fears in this intense gaming experience!"
+    "title": "Discover the Sprunki Phase Series",
+    "gameplay": {
+      "title": "Fun Gameplay",
+      "description": "Jump into exciting adventures across different phases! Each game brings new ways to play and have fun."
     },
-    "soundscape": {
-      "title": "Unique Soundscape",
-      "description": "Immerse yourself in innovative musical compositions created through character interactions and transformations."
+    "music": {
+      "title": "Amazing Music",
+      "description": "Create cool tunes and mix beats in our music-focused phases. Turn your ideas into awesome songs!"
     },
-    "transformation": {
-      "title": "Extreme Transformations",
-      "description": "Witness characters evolve into their most terrifying forms. Each transformation brings new abilities and challenges!"
+    "characters": {
+      "title": "Cool Characters",
+      "description": "Meet unique characters in each phase. From funny to spooky, there's someone for everyone!"
     },
-    "immersive": {
-      "title": "Dynamic Environment",
-      "description": "Experience a constantly changing world that responds to your actions. Every playthrough brings new surprises!"
+    "evolution": {
+      "title": "Growing Story",
+      "description": "Watch how the Sprunki world grows bigger with each phase. New surprises await in every game!"
     },
     "community": {
-      "title": "Join the Nightmare",
-      "description": "Connect with other Sprunki Phase 3 players worldwide. Share your experiences and discover new strategies together!"
+      "title": "Join Friends",
+      "description": "Play with others who love Sprunki Phase games. Share tips, make friends, and have fun together!"
     },
     "mainImage": {
-      "alt": "Sprunki Phase 3 Gameplay Screenshot - Experience the Nightmare"
+      "alt": "Sprunki Phase Series - A World of Fun and Adventure"
     }
   },
   "howItWorks": {
-    "title": "Enter the Nightmare of Sprunki Phase 3",
-    "description": "Ready to face your fears? Follow these steps to begin your terrifying journey into Sprunki Phase 3. Each step brings you closer to the ultimate nightmare experience!",
+    "title": "How to Play Sprunki Phase Games",
+    "description": "Ready to start your Sprunki Phase adventure? Here's how to play! These simple steps work for all Sprunki Phase games, so you can jump right in and have fun!",
     "step1": {
-      "title": "Begin the Nightmare",
-      "description": "Drag the creepy eyeball icon to trigger Phase 3 and enter the nightmare mode. Watch as your world transforms into darkness!"
+      "title": "Pick Your Game",
+      "description": "Choose any Sprunki Phase game you like! Each one has its own fun style - from music making to spooky adventures!"
     },
     "step2": {
-      "title": "Transform Characters",
-      "description": "Experience the horrifying transformation of characters into their most extreme forms. Each character brings unique abilities and terrors!"
+      "title": "Use Your Mouse",
+      "description": "Click and drag things on the screen with your mouse. Move characters, press buttons, and create cool stuff!"
     },
     "step3": {
-      "title": "Master the Soundscape",
-      "description": "Navigate through intense sound effects and eerie music. Let the haunting melodies guide you through the nightmare!"
+      "title": "Special Keys",
+      "description": "Use your keyboard for extra moves! Space bar to start/stop, arrow keys to move, and number keys for quick actions."
     },
     "step4": {
-      "title": "Survive the Horror",
-      "description": "Face increasingly challenging scenarios in nightmare mode. Unlock new terrors and discover the darkest secrets of Sprunki Phase 3!"
+      "title": "Have Fun!",
+      "description": "Try different things, make mistakes, and discover cool secrets! Every Sprunki Phase game has fun surprises to find."
+    },
+    "controls": {
+      "title": "Game Controls",
+      "basic": {
+        "title": "Basic Controls",
+        "items": [
+          "Click: Select things",
+          "Drag: Move things around",
+          "Space: Start/Stop",
+          "Arrows: Move around"
+        ]
+      },
+      "advanced": {
+        "title": "Cool Tricks",
+        "items": [
+          "Double Click: Special actions",
+          "Hold and Drag: Make patterns",
+          "Number Keys (1-9): Quick select",
+          "ESC: Pause game"
+        ]
+      }
+    },
+    "tips": {
+      "title": "Helpful Tips",
+      "list": [
+        "Try all the buttons - you might find something cool!",
+        "Mix different sounds to make awesome music",
+        "Play with friends to discover more fun stuff",
+        "Don't worry about making mistakes - that's part of the fun!"
+      ]
     }
   },
   "gameTips": {
-    "title": "Master Sprunki Phase 3 Nightmare Mode",
-    "description": "Unlock the darkest secrets of Sprunki Phase 3 with these essential survival tips. Are you ready to face your fears and conquer the nightmare?",
-    "survival": {
-      "title": "Stay Alive",
-      "description": "Keep your wits about you in Sprunki Phase 3. Watch your surroundings carefully and never let your guard down in nightmare mode!"
+    "title": "Fun Tips for Sprunki Phase Games",
+    "description": "Want to have more fun with Sprunki Phase? Here are some cool tips and tricks to help you enjoy every game in the series!",
+    "basics": {
+      "title": "Getting Started",
+      "description": "New to Sprunki Phase? Start with the easier games like Phase 1 or 2. Take your time to learn the controls and have fun exploring!"
     },
-    "transformation": {
-      "title": "Embrace Change",
-      "description": "Character transformations are key in Sprunki Phase 3. Learn to master each terrifying form to unlock their unique abilities!"
+    "progress": {
+      "title": "Level Up",
+      "description": "Try different Sprunki Phase games to find your favorite! Each phase has its own special style - from music to adventures!"
     },
-    "observation": {
-      "title": "Watch the Signs",
-      "description": "Pay attention to environmental cues and eerie sounds in Sprunki Phase 3. They might warn you of approaching horrors!"
+    "special": {
+      "title": "Cool Moves",
+      "description": "Look for special powers and abilities in each Sprunki Phase game. Try mixing different actions to discover fun surprises!"
     },
-    "mastery": {
-      "title": "Face Your Fears",
-      "description": "The more you face the nightmares in Sprunki Phase 3, the stronger you become. Each terror conquered makes you more powerful!"
+    "multiplayer": {
+      "title": "Play Together",
+      "description": "Many Sprunki Phase games are more fun with friends! Team up, share tips, and help each other unlock new stuff!"
     },
-    "strategy": {
-      "title": "Plan Your Escape",
-      "description": "Think ahead in Sprunki Phase 3's nightmare mode. Always have an escape route ready and know when to fight or flee!"
+    "secrets": {
+      "title": "Find Secrets",
+      "description": "Every Sprunki Phase game has hidden treasures to find! Click around, try new things, and see what cool stuff you can discover!"
+    },
+    "extraTips": {
+      "title": "More Fun Tips",
+      "list": [
+        "Take breaks between games to stay fresh",
+        "Try all the different Sprunki Phase games",
+        "Share your favorite moments with friends",
+        "Don't forget to save your progress",
+        "Have fun and be creative!"
+      ]
     }
   },
   "faq": {
-    "mainTitle": "Sprunki Phase 3 FAQ - Unveiling the Nightmare",
-    "description": "Discover the dark secrets of Sprunki Phase 3. Find answers to your most haunting questions about the nightmare that awaits.",
+    "mainTitle": "Sprunki Phase FAQ - Your Questions Answered!",
+    "description": "Got questions about Sprunki Phase games? We've got fun answers! Here's everything you need to know about our awesome game series!",
     "whatIs": {
-      "question": "What is Sprunki Phase 3?",
-      "answer": "Sprunki Phase 3 is the most intense and terrifying chapter in the Sprunki saga. It's a revolutionary horror experience where characters undergo extreme transformations, soundscapes shift with your actions, and every decision could be your last in nightmare mode!"
+      "question": "What is Sprunki Phase?",
+      "answer": "Sprunki Phase is a super fun series of games that everyone can enjoy! We have 10 different phases, each with its own special style. Some are about making music, others are about adventures, and some are even a bit spooky! It's like having 10 different games in one big family!"
     },
-    "howToPlay": {
-      "question": "How do I enter Sprunki Phase 3?",
-      "answer": "To begin your descent into madness, drag the creepy eyeball icon to trigger Phase 3. Once activated, you'll experience character transformations, haunting soundscapes, and increasingly challenging scenarios in nightmare mode. Remember, survival depends on your ability to adapt to the horror!"
+    "howToStart": {
+      "question": "How do I start playing Sprunki Phase?",
+      "answer": "It's super easy! Just pick any Sprunki Phase game you like - they're all fun to play! You can start with Phase 1 if you're new, or jump into any other phase that looks cool to you. Each game has simple controls and helpful tips to get you started!"
     },
-    "gameModes": {
-      "question": "What makes nightmare mode special?",
-      "answer": "Nightmare mode in Sprunki Phase 3 is our most intense experience yet. Characters transform into their most terrifying forms, the environment responds to your actions, and the soundscape shifts to match the growing horror. Every playthrough brings new terrors and challenges!"
+    "phases": {
+      "question": "What's different about each Sprunki Phase?",
+      "answer": "Each Sprunki Phase is special! Phase 1-2 are great for beginners and music lovers. Phase 3-4 are more spooky and exciting. Phase 5-6 let you make awesome music. Phase 7-8 are perfect for party fun, and Phase 9-10 have the coolest adventures!"
     },
-    "characters": {
-      "question": "How do character transformations work?",
-      "answer": "In Sprunki Phase 3, characters undergo extreme transformations as you progress through nightmare mode. Each transformation unlocks new abilities and challenges, but beware - with greater power comes greater horror. Master each form to survive the nightmare!"
+    "gameplay": {
+      "question": "How do the games work?",
+      "answer": "Playing Sprunki Phase games is easy and fun! Just use your mouse to click and drag things around, and your keyboard for special moves. Each game has its own cool features to discover, and you can play at your own pace. Don't worry about making mistakes - that's part of the fun!"
     },
-    "soundtrack": {
-      "question": "Tell me about the soundscape",
-      "answer": "The dynamic soundscape in Sprunki Phase 3 is a crucial part of the horror experience. Environmental sounds, character interactions, and haunting melodies combine to create an immersive atmosphere that responds to your actions and intensifies with each transformation!"
+    "multiplayer": {
+      "question": "Can I play with friends?",
+      "answer": "Yes! Many Sprunki Phase games are more fun with friends! You can team up, share your creations, and help each other discover new things. Join our community to meet other players and share cool tips!"
     },
-    "difficulty": {
-      "question": "How challenging is Sprunki Phase 3?",
-      "answer": "Sprunki Phase 3 is designed to test your limits. The difficulty increases as you progress through nightmare mode, with each transformation and new scenario presenting greater challenges. But don't worry - the more you face your fears, the stronger you become!"
+    "progress": {
+      "question": "How do I get better at Sprunki Phase games?",
+      "answer": "Just keep playing and having fun! Try different things, explore each game, and don't be afraid to experiment. You can also check out our tips section, watch what other players do, and join our community for helpful advice!"
     },
-    "community": {
-      "question": "Can I share my nightmare experience?",
-      "answer": "Absolutely! Join our global community of Sprunki Phase 3 players to share your experiences, discover new strategies, and compare your most terrifying moments. Connect through our social channels and become part of the growing nightmare!"
+    "help": {
+      "question": "Where can I get help if I'm stuck?",
+      "answer": "We're here to help! You can check our game tips, ask other players in our community, or contact our friendly support team. Remember, every Sprunki Phase player was new once, so don't be shy about asking questions!"
     },
-    "needHelp": "Still haunted by questions about Sprunki Phase 3?",
-    "contactSupport": "Contact our nightmare support team!"
+    "needHelp": "Still have questions about Sprunki Phase?",
+    "contactSupport": "Ask our friendly team!"
   },
   "testimonials": {
-    "title": "Survivor Stories from Sprunki Phase 3",
-    "subtitle": "Hear from those who dared to face the nightmare. These are the tales of those who experienced Sprunki Phase 3 and lived to tell about it.",
+    "title": "What Players Love About Sprunki Phase",
+    "subtitle": "Hear from our awesome players! They're having a blast with different Sprunki Phase games. Check out their fun stories!",
     "player1": {
-      "content": "I've never experienced anything like Sprunki Phase 3. The character transformations are truly terrifying, and the soundscape... it still haunts my dreams. Absolutely brilliant!",
+      "content": "Sprunki Phase is amazing! I started with Phase 1 and now I've played them all. Each game is different and super fun. My kids love playing too - it's perfect for the whole family!",
       "name": "Alex R.",
-      "location": "Silent Hill, USA"
+      "location": "Game Explorer"
     },
     "player2": {
-      "content": "The nightmare mode in Sprunki Phase 3 is a masterpiece of horror. Every session brings new terrors, and the dynamic environment keeps you on edge. I can't stop coming back for more!",
+      "content": "I love how every Sprunki Phase game has its own style! Phase 3 is spooky fun, Phase 5 lets me make music, and Phase 7 is great for parties. There's always something new to try!",
       "name": "Sarah M.",
-      "location": "Ravenholm, Europe"
+      "location": "Music Maker"
     },
     "player3": {
-      "content": "As a horror game veteran, I thought I'd seen it all. Then Sprunki Phase 3 came along. The way characters transform and the atmospheric sound design create an unforgettable nightmare experience.",
+      "content": "The music creation in Sprunki Phase games is so cool! I've made tons of awesome tunes, and sharing them with other players is super fun. It's like being a DJ and game player at once!",
       "name": "Marcus D.",
-      "location": "Shadow Vale, UK"
+      "location": "Beat Master"
     },
     "player4": {
-      "content": "The community aspect of Sprunki Phase 3 adds another layer of terror. Sharing experiences with other players and discovering new horrors together makes the nightmare even more immersive.",
+      "content": "Playing Sprunki Phase with friends is the best! We love trying different phases together and helping each other discover new things. The community is so friendly and fun!",
       "name": "Luna K.",
-      "location": "Dark Harbor, Canada"
+      "location": "Team Player"
     },
     "player5": {
-      "content": "I love how each playthrough of Sprunki Phase 3 feels unique. The transformations are unpredictable, and the soundscape adapts to your actions. It's a living nightmare that keeps evolving!",
+      "content": "Each time I play a different Sprunki Phase game, I find something new! The games are easy to learn but have lots of cool secrets to find. I can't pick a favorite - they're all great!",
       "name": "Viktor N.",
-      "location": "Crimson Peak, Russia"
+      "location": "Adventure Seeker"
     },
     "player6": {
-      "content": "The attention to detail in Sprunki Phase 3 is incredible. From the subtle environmental changes to the bone-chilling sound effects, every element works together to create pure horror perfection.",
+      "content": "Sprunki Phase games are perfect when I want to relax and have fun. Sometimes I make music, sometimes I go on adventures. It's like having 10 different games in one series!",
       "name": "Yuki T.",
-      "location": "Shadow City, Japan"
+      "location": "Creative Player"
     }
   },
   "gameGuide": {
-    "title": "Sprunki Phase 3 Survival Guide",
-    "description": "Master the art of survival in Sprunki Phase 3. From basic survival techniques to advanced nightmare manipulation, this guide will help you face your darkest fears.",
-    "survival": {
-      "title": "Basic Survival",
-      "description": "Essential techniques to survive your first encounters in nightmare mode.",
+    "title": "Your Guide to Sprunki Phase Games",
+    "description": "Ready to become a Sprunki Phase master? Here's everything you need to know about playing and enjoying all the games in the series!",
+    "basics": {
+      "title": "Getting Started",
+      "description": "New to Sprunki Phase? Here are the basics to help you start your adventure!",
       "tips": [
-        "Always keep an eye on your surroundings - danger lurks everywhere",
-        "Learn to recognize warning signs in the environment",
-        "Maintain awareness of your escape routes",
-        "Conserve your energy for critical moments"
+        "Pick any Sprunki Phase game you like - they're all fun!",
+        "Use your mouse to click and drag things around",
+        "Try the tutorial in each game first",
+        "Take your time and have fun exploring"
       ]
     },
-    "transformation": {
-      "title": "Character Transformations",
-      "description": "Understanding and mastering the horrifying transformations.",
+    "music": {
+      "title": "Making Music",
+      "description": "Learn how to create awesome tunes in the music-focused Sprunki Phase games!",
       "tips": [
-        "Each transformation unlocks unique abilities and vulnerabilities",
-        "Time your transformations strategically",
-        "Learn the triggers for each transformation type",
-        "Master the balance between power and control"
+        "Mix different sounds to create cool beats",
+        "Try combining different music styles",
+        "Save your favorite music creations",
+        "Share your tunes with other players"
       ]
     },
-    "soundscape": {
-      "title": "Navigating the Soundscape",
-      "description": "Using the haunting audio environment to your advantage.",
+    "adventure": {
+      "title": "Fun Adventures",
+      "description": "Discover exciting adventures in different Sprunki Phase worlds!",
       "tips": [
-        "Different sounds indicate different types of threats",
-        "Use environmental audio cues for early warning",
-        "Learn to distinguish between ambient and threat sounds",
-        "Some melodies can trigger special events"
+        "Explore every corner of each game world",
+        "Look for hidden surprises and secrets",
+        "Try different paths and choices",
+        "Complete fun challenges to unlock new stuff"
       ]
     },
-    "environment": {
-      "title": "Environmental Awareness",
-      "description": "Understanding and surviving the dynamic nightmare realm.",
+    "multiplayer": {
+      "title": "Playing with Friends",
+      "description": "Make your Sprunki Phase experience more fun by playing with others!",
       "tips": [
-        "The environment reacts to your actions and transformations",
-        "Certain areas trigger specific events or transformations",
-        "Watch for environmental changes that signal danger",
-        "Use environmental features for protection"
+        "Invite friends to join your game",
+        "Work together to solve puzzles",
+        "Share tips and tricks with others",
+        "Join community events and challenges"
       ]
     },
-    "abilities": {
-      "title": "Nightmare Powers",
-      "description": "Mastering the dark abilities unlocked in Phase 3.",
+    "special": {
+      "title": "Cool Features",
+      "description": "Discover special features that make each Sprunki Phase game unique!",
       "tips": [
-        "Each nightmare form has unique abilities and weaknesses",
-        "Combine different abilities for maximum effect",
-        "Practice timing your ability activations",
-        "Some abilities work better in specific environments"
+        "Try out different character abilities",
+        "Unlock special game modes",
+        "Find Easter eggs in each game",
+        "Experiment with different combinations"
       ]
     },
     "advanced": {
-      "title": "Advanced Horror Tactics",
-      "description": "Expert strategies for surviving the deepest nightmares.",
+      "title": "Pro Tips",
+      "description": "Ready for more challenges? Here are some advanced tips for Sprunki Phase pros!",
       "tips": [
-        "Chain transformations for devastating combinations",
-        "Learn to predict and manipulate enemy behavior",
-        "Master the art of strategic retreat",
-        "Develop complex survival strategies"
+        "Master the special moves in each game",
+        "Learn advanced music mixing techniques",
+        "Discover secret game combinations",
+        "Challenge yourself with harder modes"
       ]
     },
     "help": {
-      "title": "Seeking Aid",
-      "description": "Where to find help when the nightmare becomes too intense.",
+      "title": "Getting Help",
+      "description": "Need some help? We've got your back!",
       "tips": [
-        "Join the Sprunki Phase 3 community for support",
-        "Share experiences with other survivors",
-        "Report unusual phenomena to our nightmare support team",
-        "Document your encounters for future reference"
+        "Check out our helpful game guides",
+        "Ask questions in our friendly community",
+        "Watch tutorial videos for tips",
+        "Contact our support team for help"
       ]
     }
   },
@@ -333,15 +373,46 @@
     }
   },
   "introduction": {
-    "title": "Welcome to Sprunki Phase 3: The Ultimate Nightmare Experience",
-    "description": "Step into the darkest chapter of the Sprunki saga with Sprunki Phase 3. Experience the most intense transformations, haunting soundscapes, and spine-chilling gameplay that will push your limits. Are you brave enough to face the nightmare that awaits?",
+    "title": "Welcome to Sprunki Phase Games!",
+    "description": "Hey there! Ready to jump into the amazing world of Sprunki Phase? It's a super cool series of games where every phase brings new adventures! From making music to solving puzzles, there's something fun for everyone. Let's explore all 10 phases together and see what makes each one special!",
     "highlights": [
-      "Revolutionary nightmare mode gameplay",
-      "Terrifying character transformations",
-      "Immersive horror soundscape",
-      "Dynamic environment reactions",
-      "Challenging survival scenarios",
-      "Global nightmare community"
-    ]
+      "Start with Phase 1's fun music maker",
+      "Get spooky in Phase 3's scary world",
+      "Mix beats in Phase 5's cool studio",
+      "Make friends in Phase 7's party zone",
+      "Create awesome tunes in Phase 9",
+      "Master all 10 Sprunki Phases!"
+    ],
+    "phases": {
+      "title": "Your Sprunki Phase Journey",
+      "description": "Each Sprunki Phase is like a new chapter in an awesome story. Start anywhere you want - every phase has its own cool stuff to try!",
+      "list": [
+        {
+          "phase": "Phase 1-2",
+          "title": "The Beginning",
+          "description": "Where the fun starts! Make music and meet new friends."
+        },
+        {
+          "phase": "Phase 3-4",
+          "title": "The Spooky Adventure",
+          "description": "Get ready for some scary but fun times!"
+        },
+        {
+          "phase": "Phase 5-6",
+          "title": "The Music Studio",
+          "description": "Create awesome beats and share them with friends."
+        },
+        {
+          "phase": "Phase 7-8",
+          "title": "The Party Time",
+          "description": "Join the biggest Sprunki party ever!"
+        },
+        {
+          "phase": "Phase 9-10",
+          "title": "The Grand Finale",
+          "description": "Experience the most amazing Sprunki adventures yet!"
+        }
+      ]
+    }
   }
 }

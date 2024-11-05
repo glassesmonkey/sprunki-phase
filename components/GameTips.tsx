@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'next-i18next';
-import { Skull, Ghost, Eye, Heart, Lightbulb } from 'lucide-react';
+import { Gamepad, Star, Wand2, Users, Sparkles } from 'lucide-react';
 
 const GameTips = () => {
   const { t } = useTranslation('common');
@@ -17,13 +17,13 @@ const GameTips = () => {
       </div>
       <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-3">
         {[
-          { key: 'survival', icon: <Heart className="mb-4 h-14 w-14" /> },
-          { key: 'transformation', icon: <Ghost className="mb-4 h-14 w-14" /> },
-          { key: 'observation', icon: <Eye className="mb-4 h-14 w-14" /> },
-          { key: 'mastery', icon: <Skull className="mb-4 h-14 w-14" /> },
-          { key: 'strategy', icon: <Lightbulb className="mb-4 h-14 w-14" /> }
+          { key: 'basics', icon: <Gamepad className="mb-4 h-14 w-14" /> },
+          { key: 'progress', icon: <Star className="mb-4 h-14 w-14" /> },
+          { key: 'special', icon: <Wand2 className="mb-4 h-14 w-14" /> },
+          { key: 'multiplayer', icon: <Users className="mb-4 h-14 w-14" /> },
+          { key: 'secrets', icon: <Sparkles className="mb-4 h-14 w-14" /> }
         ].map(({ key, icon }) => (
-          <div key={key} className="flex flex-col items-center p-8 text-center bg-gray-900/5 rounded-lg">
+          <div key={key} className="flex flex-col items-center p-8 text-center bg-gray-900/5 rounded-lg hover:bg-purple-50 transition-colors">
             {React.cloneElement(icon, { className: `${icon.props.className} text-purple-600` })}
             <p className="mb-4 text-xl font-bold">{t(`gameTips.${key}.title`)}</p>
             <p className="text-sm text-gray-500">{t(`gameTips.${key}.description`)}</p>

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'next-i18next';
-import { ChevronDown, ChevronUp } from 'lucide-react';
+import { ChevronDown, ChevronUp, HelpCircle } from 'lucide-react';
 
 const FAQSection = () => {
   const { t } = useTranslation('common');
@@ -8,20 +8,23 @@ const FAQSection = () => {
 
   const faqs = [
     'whatIs',
-    'howToPlay',
-    'gameModes',
-    'characters',
-    'soundtrack',
-    'difficulty',
-    'community'
+    'howToStart',
+    'phases',
+    'gameplay',
+    'multiplayer',
+    'progress',
+    'help'
   ];
 
   return (
     <section className="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-24 lg:py-32">
       <div className="mx-auto mb-8 max-w-3xl text-center md:mb-12 lg:mb-16">
-        <h2 className="mb-4 text-3xl font-bold md:text-5xl">
-          {t('faq.mainTitle')}
-        </h2>
+        <div className="flex items-center justify-center gap-2 mb-4">
+          <HelpCircle className="w-8 h-8 text-purple-500" />
+          <h2 className="text-3xl font-bold md:text-5xl">
+            {t('faq.mainTitle')}
+          </h2>
+        </div>
         <p className="mx-auto mt-4 max-w-xl text-base text-gray-500 md:text-xl">
           {t('faq.description')}
         </p>
@@ -33,7 +36,7 @@ const FAQSection = () => {
             className="mb-4 border border-purple-100 rounded-lg overflow-hidden"
           >
             <button
-              className="w-full px-6 py-4 flex justify-between items-center bg-purple-50/50 hover:bg-purple-50"
+              className="w-full px-6 py-4 flex justify-between items-center bg-purple-50/50 hover:bg-purple-50 transition-colors"
               onClick={() => setOpenIndex(openIndex === index ? null : index)}
             >
               <h3 className="text-left text-lg font-semibold">
@@ -57,7 +60,7 @@ const FAQSection = () => {
         <p className="text-sm text-gray-500">
           {t('faq.needHelp')}
           <a 
-            href="mailto:support@sprunkiphase3.com" 
+            href="mailto:support@sprunkiphase.com" 
             className="text-purple-500 hover:text-purple-600 ml-1"
           >
             {t('faq.contactSupport')}

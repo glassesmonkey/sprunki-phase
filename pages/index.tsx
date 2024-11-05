@@ -22,7 +22,7 @@ const Home: NextPage = () => {
   const { t } = useTranslation('common');
   const router = useRouter();
   const { locale, locales, defaultLocale, pathname } = router;
-  const canonicalUrl = `https://sprunkiphase3.com${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
+  const canonicalUrl = `https://sprunkiphase.club${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
   const iframeRef = useRef<HTMLIFrameElement>(null);
   const [iframeLoaded, setIframeLoaded] = useState(false);
 
@@ -40,7 +40,7 @@ const Home: NextPage = () => {
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://sprunkiphase3.online${l === defaultLocale ? '' : `/${l}`}${pathname}`}
+            href={`https://sprunkiphase.club${l === defaultLocale ? '' : `/${l}`}${pathname}`}
           />
         ))}
 
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <link
           rel="alternate"
           hrefLang="x-default"
-          href={`https://sprunkiphase3.online${pathname}`}
+          href={`https://sprunkiphase.club${pathname}`}
         />
         <script type="application/ld+json">
           {JSON.stringify({
@@ -58,7 +58,7 @@ const Home: NextPage = () => {
             "applicationCategory": "Game",
             "operatingSystem": "Any",
             "description": "Experience the most intense chapter of the Sprunki saga with Sprunki Phase 3. Dive into a revolutionary horror experience featuring extreme character transformations, dynamic soundscapes, and challenging nightmare mode gameplay.",
-            "url": "https://sprunkiphase3.com",
+            "url": "https://sprunkiphase.club",
             "sameAs": [
               "https://discord.gg/sprunkiphase3",
               "https://twitter.com/SprunkiPhase3",
@@ -186,7 +186,7 @@ const Home: NextPage = () => {
         <div className='relative w-full max-w-[768px] h-[320px] sm:h-[573px] border border-gray-300 rounded-lg shadow-lg overflow-hidden'>
           <iframe
             ref={iframeRef}
-            src="https://wowtbc.net/sprunki/phase-3/index.html"
+            src="https://wowtbc.net/sprunkin/phase1/index.html"
             width="100%"
             height="100%"
             frameBorder="0"
@@ -199,7 +199,7 @@ const Home: NextPage = () => {
             <div 
               className="absolute inset-0 flex items-center justify-center bg-black/50"
               style={{
-                backgroundImage: 'url(https://cdn.sprunkiphase3.online/sprunki-phase-3-game.webp)',
+                backgroundImage: 'url(https://cdn.sprunkiphase3.online/phase1.jfif)',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat'

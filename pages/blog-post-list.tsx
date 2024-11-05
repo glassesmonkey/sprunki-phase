@@ -30,10 +30,10 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://sprunkiphase3.online${l === defaultLocale ? '' : `/${l}`}/blog-post-list`}
+            href={`https://sprunkiphase.club${l === defaultLocale ? '' : `/${l}`}/blog-post-list`}
           />
         ))}
-        <link rel="alternate" hrefLang="x-default" href="https://sprunkiphase3.online/blog-post-list" />
+        <link rel="alternate" hrefLang="x-default" href="https://sprunkiphase.club/blog-post-list" />
       </Head>
 
       <Header />

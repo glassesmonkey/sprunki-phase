@@ -1,22 +1,21 @@
 {
   "title": "Other Game Versions",
-  "description": "Try different versions of Sprunki Phase 3",
+  "description": "Explore All Sprunki Phase Games",
   "versions": [
     {
-    
       "id": "phase1",
       "title": "Sprunki Phase 1",
       "image": "https://cdn.sprunkiphase3.online/phase1.jfif",
-      "description": "Perfect for beginners - a gentler introduction to the nightmare",
+      "description": "Start your journey here! Make simple tunes and learn the basics of music creation in this fun, beginner-friendly game.",
       "gradient": "from-blue-400 to-purple-500",
-      "url": "/other-version-games/sprunkiphase1",
+      "url": "/",
       "isExternal": false
     },
     {
       "id": "phase2",
       "title": "Sprunki Phase 2",
       "image": "https://cdn.sprunkiphase3.online/phase2.jfif",
-      "description": "The original Sprunki experience that started it all",
+      "description": "Level up your music skills! Mix beats and create catchy tunes with new sounds and cool effects.",
       "gradient": "from-green-400 to-blue-500",
       "url": "/other-version-games/sprunkiphase2",
       "isExternal": false
@@ -25,17 +24,16 @@
       "id": "phase3",
       "title": "Sprunki Phase 3",
       "image": "https://cdn.sprunkiphase3.online/phase3.jfif",
-      "description": "Take the horror with you - optimized for mobile devices",
+      "description": "Enter the spooky world! Experience thrilling adventures with scary sounds and mysterious transformations.",
       "gradient": "from-purple-500 to-red-500",
       "url": "/other-version-games/sprunkiphase3",
       "isExternal": false
     },
     {
-
       "id": "phase4",
       "title": "Sprunki Phase 4",
       "image": "https://cdn.sprunkiphase3.online/phase4.jfif",
-      "description": "The ultimate rhythm experience with stunning visuals",
+      "description": "Feel the rhythm! Jump and move to the beat in this exciting music-adventure combo game.",
       "gradient": "from-pink-500 to-yellow-500",
       "url": "/other-version-games/sprunkiphase4",
       "isExternal": false
@@ -44,7 +42,7 @@
       "id": "phase5",
       "title": "Sprunki Phase 5",
       "image": "https://cdn.sprunkiphase3.online/phase5.jfif",
-      "description": "Creative music making with enhanced sound library",
+      "description": "Become a music master! Create amazing songs with tons of new sounds and share them with friends.",
       "gradient": "from-indigo-500 to-purple-500",
       "url": "/other-version-games/sprunkiphase5",
       "isExternal": false
@@ -53,7 +51,7 @@
       "id": "phase6",
       "title": "Sprunki Phase 6",
       "image": "https://cdn.sprunkiphase3.online/phase6.jfif",
-      "description": "Explore new musical genres and dynamic visuals",
+      "description": "Mix different music styles! Try new genres and create your own unique sound combinations.",
       "gradient": "from-yellow-400 to-orange-500",
       "url": "/other-version-games/sprunkiphase6",
       "isExternal": false
@@ -62,7 +60,7 @@
       "id": "phase7",
       "title": "Sprunki Phase 7",
       "image": "https://cdn.sprunkiphase3.online/phase7.jfif",
-      "description": "Interactive storytelling meets music creation",
+      "description": "Join the party! Make music with friends and enjoy fun multiplayer challenges together.",
       "gradient": "from-teal-400 to-blue-500",
       "url": "/other-version-games/sprunkiphase7",
       "isExternal": false
@@ -71,7 +69,7 @@
       "id": "phase8",
       "title": "Sprunki Phase 8",
       "image": "https://cdn.sprunkiphase3.online/phase8.jfif",
-      "description": "Mobile-first music creation with futuristic sounds",
+      "description": "Music on the go! Create awesome beats anywhere with this mobile-friendly music maker.",
       "gradient": "from-cyan-500 to-blue-500",
       "url": "/other-version-games/sprunkiphase8",
       "isExternal": false
@@ -80,7 +78,7 @@
       "id": "phase9",
       "title": "Sprunki Phase 9",
       "image": "https://cdn.sprunkiphase3.online/phase9.jfif",
-      "description": "Rhythm-based platforming adventure",
+      "description": "Music meets adventure! Jump, run, and make music in this exciting rhythm-based platform game.",
       "gradient": "from-purple-600 to-pink-500",
       "url": "/other-version-games/sprunkiphase9",
       "isExternal": false
@@ -89,7 +87,7 @@
       "id": "phase10",
       "title": "Sprunki Phase 10",
       "image": "https://cdn.sprunkiphase3.online/phase10.jfif",
-      "description": "The ultimate evolution of music creation",
+      "description": "The ultimate Sprunki experience! Combine everything you've learned to create amazing musical masterpieces.",
       "gradient": "from-emerald-500 to-teal-500",
       "url": "/other-version-games/sprunkiphase10",
       "isExternal": false

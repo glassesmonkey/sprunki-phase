@@ -20,7 +20,7 @@ const Home: NextPage = () => {
   const { t } = useTranslation('common-scratch');
   const router = useRouter();
   const { locale, locales, defaultLocale, pathname } = router;
-  const canonicalUrl = `https://sprunkiphase3.online${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
+  const canonicalUrl = `https://sprunkiphase.club${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
   const [showGame, setShowGame] = useState(false);
   const iframeRef = useRef<HTMLIFrameElement>(null);
   const [iframeLoaded, setIframeLoaded] = useState(false);
@@ -40,7 +40,7 @@ const Home: NextPage = () => {
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://sprunkiphase3.online${l === defaultLocale ? '' : `/${l}`}${pathname}`}
+            href={`https://sprunkiphase.club${l === defaultLocale ? '' : `/${l}`}${pathname}`}
           />
         ))}
 
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <link
           rel="alternate"
           hrefLang="x-default"
-          href={`https://sprunkiphase3.online${pathname}`}
+          href={`https://sprunkiphase.club${pathname}`}
         />
         <script type="application/ld+json">
           {JSON.stringify({
@@ -64,9 +64,9 @@ const Home: NextPage = () => {
               "@language": "ja",
               "@value": "ジオメトリーダッシュオンラインは、無料で遊ぶ音楽リズムアクションゲームです。音楽に合わせたスリリングなゲームプレイを体験し、自分だけのレベルを作成し、様々なゲームモードで自分に挑戦しましょう。"
             },
-            "url": "https://sprunkiphase3.online",
+            "url": "https://sprunkiphase.club",
             "sameAs": [
-              "https://sprunkiphase3.online/ja"
+              "https://sprunkiphase.club/ja"
             ],
             "offers": {
               "@type": "Offer",
