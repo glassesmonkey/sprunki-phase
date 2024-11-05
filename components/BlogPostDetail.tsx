@@ -45,7 +45,7 @@ const BlogPostDetail: React.FC<BlogPostDetailProps> = ({ post }) => {
 
       <div className="mt-12 text-center">
         <Link href="https://sprunkiphase.club" className="inline-block text-white font-semibold py-3 px-6 rounded-lg transition duration-300 gradient-button">
-          play sprunki phase 3 now!
+          play sprunki phase now!
         </Link>
       </div>
 

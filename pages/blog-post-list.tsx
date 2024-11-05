@@ -22,8 +22,8 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
   return (
     <div className='flex flex-col min-h-screen'>
       <Head>
-        <title>Blog Post List - sprunki phase 3 </title>
-        <meta name='description' content="sprunki phase 3 blog post list." />
+        <title>Blog Post List - sprunki phase </title>
+        <meta name='description' content="sprunki phase  blog post list." />
         <link rel="canonical" href={canonicalUrl} />
         {locales?.map((l) => (
           <link
@@ -40,8 +40,8 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
 
       <main className='flex-grow'>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <h1 className="text-3xl font-bold text-center mb-8">sprunki phase 3 Blog Post List</h1>
-          <p className="text-xl text-center text-gray-600 mb-12">All you need know about sprunki phase 3</p>
+          <h1 className="text-3xl font-bold text-center mb-8">sprunki phase  Blog Post List</h1>
+          <p className="text-xl text-center text-gray-600 mb-12">All you need know about sprunki phase </p>
           <BlogPostList posts={posts} />
         </div>
       </main>

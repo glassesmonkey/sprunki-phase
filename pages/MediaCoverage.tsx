@@ -7,7 +7,8 @@ const MediaCoverage: NextPage = () => {
   const coverageLinks = [
 
 
- { title: "v2ex", url: "https://www.v2ex.com/t/1086646" },
+
+ { title: "csdn", url: "https://blog.csdn.net/a58220655/article/details/143534309" },
 
 ];
 
@@ -18,17 +19,17 @@ const MediaCoverage: NextPage = () => {
   return (
     <div className="flex max-w-6xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>Media Coverage - sprunki phase 3</title>
+        <title>Media Coverage - sprunki phase </title>
         <link rel="icon" href="/icons/favicon.ico" />
       </Head>
 
       <Header />
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-4 text-center">
-        <h1 className="text-4xl md:text-6xl font-bold mb-8">Media Coverage About sprunki phase 3</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-8">Media Coverage About sprunki phase </h1>
         
         <p className="text-xl mb-12 max-w-2xl">
-          Discover what the media is saying about sprunki phase 3 and our innovative technology.
+          Discover what the media is saying about sprunki phase and our innovative technology.
         </p>
 
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 w-full max-w-4xl">

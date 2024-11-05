@@ -54,16 +54,16 @@ const Home: NextPage = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "VideoGame",
-            "name": "Sprunki Phase 3",
+            "name": "Sprunki Phase",
             "applicationCategory": "Game",
             "operatingSystem": "Any",
-            "description": "Experience the most intense chapter of the Sprunki saga with Sprunki Phase 3. Dive into a revolutionary horror experience featuring extreme character transformations, dynamic soundscapes, and challenging nightmare mode gameplay.",
+            "description": "Discover the amazing world of Sprunki Phase - a series of 10 unique games where music, adventure, and creativity come together! From fun beginnings to musical mastery, each phase brings new excitement. Perfect for players of all ages!",
             "url": "https://sprunkiphase.club",
             "sameAs": [
-              "https://discord.gg/sprunkiphase3",
-              "https://twitter.com/SprunkiPhase3",
-              "https://www.youtube.com/@SprunkiPhase3",
-              "https://www.reddit.com/r/SprunkiPhase3/"
+              "https://discord.gg/sprunkiphase",
+              "https://twitter.com/SprunkiPhase",
+              "https://www.youtube.com/@SprunkiPhase",
+              "https://www.reddit.com/r/SprunkiPhase/"
             ],
             "offers": {
               "@type": "Offer",
@@ -74,7 +74,7 @@ const Home: NextPage = () => {
             "gameItem": [
               {
                 "@type": "Thing",
-                "name": "Nightmare Mode"
+                "name": "Music Creation"
               },
               {
                 "@type": "Thing",
@@ -82,7 +82,7 @@ const Home: NextPage = () => {
               },
               {
                 "@type": "Thing",
-                "name": "Dynamic Soundscape"
+                "name": "Interactive Gameplay"
               }
             ],
             "publisher": {
@@ -107,11 +107,11 @@ const Home: NextPage = () => {
                   "@type": "Rating",
                   "ratingValue": "5"
                 },
-                "reviewBody": "Sprunki Phase 3 is a masterpiece of horror gaming. The character transformations and dynamic soundscape create an unforgettable nightmare experience that keeps you coming back for more!"
+                "reviewBody": "Sprunki Phase is amazing! Each game brings something new and exciting. From making music to going on adventures, there's always something fun to do. Perfect for the whole family!"
               }
             ],
             "gamePlatform": ["Web Browser", "Online"],
-            "genre": ["Horror Game", "Action Game", "Adventure Game"]
+            "genre": ["Music Game", "Adventure Game", "Creative Game"]
           })}
         </script>
 
@@ -128,50 +128,50 @@ const Home: NextPage = () => {
             "mainEntity": [
               {
                 "@type": "Question",
-                "name": "What is Sprunki Phase 3?",
+                "name": "What is Sprunki Phase?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Sprunki Phase 3 is the most intense and terrifying chapter in the Sprunki saga. It's a revolutionary horror experience where characters undergo extreme transformations, soundscapes shift with your actions, and every decision could be your last in nightmare mode."
+                  "text": "Sprunki Phase is a series of 10 amazing games that combine music, adventure, and creativity. Each phase offers unique experiences, from making music to exploring magical worlds. Perfect for players of all ages!"
                 }
               },
               {
                 "@type": "Question",
-                "name": "How do I enter Sprunki Phase 3?",
+                "name": "How do I start playing Sprunki Phase?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "To begin your descent into madness, drag the creepy eyeball icon to trigger Phase 3. Once activated, you'll experience character transformations, haunting soundscapes, and increasingly challenging scenarios in nightmare mode."
+                  "text": "You can start with any Sprunki Phase game! Each one is easy to learn and fun to play. Just click and drag to interact, use your keyboard for special moves, and let your creativity flow!"
                 }
               },
               {
                 "@type": "Question",
-                "name": "What makes nightmare mode special?",
+                "name": "What makes each phase special?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Nightmare mode in Sprunki Phase 3 is our most intense experience yet. Characters transform into their most terrifying forms, the environment responds to your actions, and the soundscape shifts to match the growing horror."
+                  "text": "Each Sprunki Phase game has its own unique features. Phase 1-2 are great for beginners, Phase 3-4 add excitement, Phase 5-6 focus on music creation, Phase 7-8 are perfect for mobile play, and Phase 9-10 combine everything into amazing adventures!"
                 }
               },
               {
                 "@type": "Question",
-                "name": "How do character transformations work?",
+                "name": "Can I play with friends?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "In Sprunki Phase 3, characters undergo extreme transformations as you progress through nightmare mode. Each transformation unlocks new abilities and challenges, but beware - with greater power comes greater horror."
+                  "text": "Yes! Many Sprunki Phase games have multiplayer features. You can create music together, share your creations, and help each other discover new things!"
                 }
               },
               {
                 "@type": "Question",
-                "name": "Tell me about the soundscape",
+                "name": "Do I need music experience?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "The dynamic soundscape in Sprunki Phase 3 is a crucial part of the horror experience. Environmental sounds, character interactions, and haunting melodies combine to create an immersive atmosphere that responds to your actions."
+                  "text": "Not at all! Sprunki Phase games are designed for everyone. The intuitive controls and helpful guides make it easy to start creating and playing, no matter your experience level."
                 }
               },
               {
                 "@type": "Question",
-                "name": "How challenging is Sprunki Phase 3?",
+                "name": "What can I create in Sprunki Phase?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Sprunki Phase 3 is designed to test your limits. The difficulty increases as you progress through nightmare mode, with each transformation and new scenario presenting greater challenges. But don't worry - the more you face your fears, the stronger you become!"
+                  "text": "The possibilities are endless! Create music, design characters, solve puzzles, and go on adventures. Each Sprunki Phase game gives you new ways to express your creativity and have fun!"
                 }
               }
             ]
@@ -191,7 +191,7 @@ const Home: NextPage = () => {
             height="100%"
             frameBorder="0"
             allowFullScreen
-            title="Sprunki Phase 3"
+            title="Sprunki Phase"
             onLoad={() => setIframeLoaded(true)}
             className={iframeLoaded ? 'opacity-100' : 'opacity-0'}
           />

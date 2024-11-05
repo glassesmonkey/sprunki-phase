@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
               <p className="font-semibold mb-2">{t('footer.product')}</p>
               <ul className="space-y-2">
                 <li><Link href="/waitlist" className="text-sm text-gray-600 hover:text-black">{t('footer.features')}</Link></li>
-                <li><Link href="/MediaCoverage" className="text-sm text-gray-600 hover:text-black">Media Coverage-sprunki phase 3</Link></li>
+                <li><Link href="/MediaCoverage" className="text-sm text-gray-600 hover:text-black">Media Coverage-sprunki phase</Link></li>
 
                 {/* <li><Link href="/pricing" className="text-sm text-gray-600 hover:text-black">Pricing</Link></li> */}
               </ul>
