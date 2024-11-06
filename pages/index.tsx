@@ -9,7 +9,7 @@ import HowItWorksSection from '../components/HowItWorksSection';
 import GameTips from '../components/GameTips';
 import FAQSection from '../components/FAQSection';
 import GameGuide from '../components/GameGuide';
-import BlockBlastSolver from '../components/BlockBlastSolver';
+
 import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
