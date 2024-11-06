@@ -414,5 +414,9 @@
         }
       ]
     }
+  },
+  "game": {
+    "clickToPlay": "Click to Start Playing",
+    "playNow": "Play Now"
   }
 }
