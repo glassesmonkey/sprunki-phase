@@ -17,7 +17,7 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
   const { t } = useTranslation('common');
   const router = useRouter();
   const { locale, locales, defaultLocale } = router;
-  const canonicalUrl = `https://ai-hug.org${locale === defaultLocale ? '' : `/${locale}`}/blog-post-list`;
+  const canonicalUrl = `https://sprunkiphase.club${locale === defaultLocale ? '' : `/${locale}`}/blog-post-list`;
 
   return (
     <div className='flex flex-col min-h-screen'>
