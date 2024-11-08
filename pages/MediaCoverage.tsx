@@ -9,7 +9,7 @@ const MediaCoverage: NextPage = () => {
 
 
  { title: "csdn", url: "https://blog.csdn.net/a58220655/article/details/143534309" },
-
+ { title: "2048-cupcakes", url: "https://2048-cupcakes.online/" },
 ];
 
   
