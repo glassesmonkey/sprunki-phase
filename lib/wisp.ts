@@ -7,7 +7,7 @@ async function getWispClient() {
     const { buildWispClient } = await import('@wisp-cms/client');
     wispClient = buildWispClient({
       baseUrl: "https://www.wisp.blog",
-      blogId: "cm339hugj0000ji8l6gyb2s78", // 请替换为您的实际 Blog ID
+      blogId: "cm38x00vk0004r1yejevi8xs8", // 请替换为您的实际 Blog ID
     });
   }
   return wispClient;
