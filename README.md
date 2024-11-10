@@ -1,4 +1,4 @@
-# [sprunkiphase3.online](https://sprunkiphase.club/)
+# [demo](https://sprunkiphase.club/)
 
 This project expand image using AI. 
 
