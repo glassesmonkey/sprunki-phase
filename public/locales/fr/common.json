@@ -185,5 +185,7 @@
       "name": "Alex Patel",
       "role": "Responsable marketing"
     }
-  }
+  },
+  "pageNotFound": "Page non trouvée",
+  "backToHome": "Retour à l'accueil"
 }

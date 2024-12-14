@@ -185,5 +185,7 @@
       "name": "Alex Patel",
       "role": "Gerente de marketing"
     }
-  }
+  },
+  "pageNotFound": "Página no encontrada",
+  "backToHome": "Volver al inicio"
 }

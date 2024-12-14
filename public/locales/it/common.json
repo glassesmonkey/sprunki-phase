@@ -185,5 +185,7 @@
       "name": "Alex Patel",
       "role": "Manager di marketing"
     }
-  }
+  },
+  "pageNotFound": "Pagina non trovata",
+  "backToHome": "Torna alla home"
 }
