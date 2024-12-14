@@ -2,7 +2,9 @@ import Document, { Head, Html, Main, NextScript } from 'next/document';
 
 class MyDocument extends Document {
   render() {
-    const { locale } = this.props.__NEXT_DATA__;
+    const { locale, page } = this.props.__NEXT_DATA__;
+    const is404Page = page === '/_error' || page === '/404';
+
     return (
       <Html lang={locale}>
         <Head>
@@ -19,6 +21,14 @@ class MyDocument extends Document {
               `,
             }}
           />
+          {/* Google Adsense - 不在404页面显示 */}
+          {!is404Page && (
+            <script 
+              async 
+              src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8321646430920092"
+              crossOrigin="anonymous"
+            />
+          )}
         </Head>
         <body>
           <Main />
