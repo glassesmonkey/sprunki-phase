@@ -20,6 +20,7 @@ const MediaCoverage: NextPage = () => {
     { title: "coreballjp.com", url: "https://coreballjp.com/" },
  { title: "csdn", url: "https://blog.csdn.net/a58220655/article/details/143534309" },
  { title: "2048-cupcakes", url: "https://2048-cupcakes.online/" },
+ { title: "fuhkama.ugu.pl", url: "http://fuhkama.ugu.pl/photogallery.php?photo_id=25&c_start=20" },
 ];
 
   
