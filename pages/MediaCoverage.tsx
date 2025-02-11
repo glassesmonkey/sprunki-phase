@@ -5,9 +5,19 @@ import Footer from '../components/Footer';
 
 const MediaCoverage: NextPage = () => {
   const coverageLinks = [
-
-
-
+    { title: "emojimix.online", url: "https://emojimix.online/" },
+    { title: "blockblastsolver.online", url: "https://blockblastsolver.online/" },
+    { title: "rice-purity-test.org", url: "https://rice-purity-test.org/" },
+    { title: "geometrydashjp.com", url: "https://geometrydashjp.com/" },
+    { title: "raadsrtest.net", url: "https://raadsrtest.net/" },
+    { title: "controllertest.org", url: "https://controllertest.org/" },
+    { title: "blockblastgame.net", url: "https://blockblastgame.net/" },
+    { title: "run3.fun", url: "https://run3.fun/" },
+    { title: "tiny-fishing.online", url: "https://tiny-fishing.online/" },
+    { title: "grannyonline.net", url: "https://grannyonline.net/" },
+    { title: "chill-guy-clicker.com", url: "https://chill-guy-clicker.com/" },
+    { title: "funny-jokes.co", url: "https://funny-jokes.co/" },
+    { title: "coreballjp.com", url: "https://coreballjp.com/" },
  { title: "csdn", url: "https://blog.csdn.net/a58220655/article/details/143534309" },
  { title: "2048-cupcakes", url: "https://2048-cupcakes.online/" },
 ];
