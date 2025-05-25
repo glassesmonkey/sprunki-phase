@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                 {isIndexPage && (
                   <>
                     
-                    
+                    <a href="https://suikagame.fun/" title="フルーツゲーム" className="partner-link" rel="noopener noreferrer" target="_blank">フルーツゲーム</a>
                     <a href="https://ai-hug.org/" title="AI HUG" className="partner-link" rel="noopener noreferrer" target="_blank">AI HUG</a>
                    
                   </>
