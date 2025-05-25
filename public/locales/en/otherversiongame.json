@@ -46,6 +46,15 @@
       "gradient": "from-indigo-500 to-purple-500",
       "url": "/other-version-games/sprunkiphase5",
       "isExternal": false
+    },    
+    {
+      "id": "suikagame",
+      "title": "フルーツゲーム",
+      "image": "https://common.geometrydashjp.com/suikagame/converted.webp",
+      "description": "🍉無料フルーツゲーム | スマホ・PCで簡単プレイ！スコアを全国ランキングに挑戦！",
+      "gradient": "from-blue-500 to-indigo-600",
+      "url": "suikagame.fun",
+      "isExternal": true
     },
     {
       "id": "phase6",
